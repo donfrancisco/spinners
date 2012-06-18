@@ -10,4 +10,4 @@ Make those loading screens a bit more dapper, and always provide user feedback.
 
 Everything should be broken out into layers. If you need to modify the background colors, there should be a background layer in each file. Change the color, and add it to each pane of the animation.
 
-(c) 2012 John Cockrell, MIT License.
+MIT License.
