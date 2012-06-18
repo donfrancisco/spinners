@@ -1,6 +1,6 @@
 # Spinners
 
-Spinners: everyone needs them, no one wants to make them. Many of the ones you can scrape from the internet are kind of lame and only come in one size.
+Everyone needs them, no one wants to make them. Many of the ones you can scrape from the internet are kind of lame and only come in one size.
 
 Here are some basic spinners with Apple-like proportions, available in 24px-192px sizes, so you can have spinners at 24px, 48px, and 96px at retina and normal resolutions.
 
