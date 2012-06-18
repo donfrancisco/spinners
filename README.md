@@ -4,6 +4,8 @@ Everyone needs them, no one wants to make them. Many of the ones you can scrape 
 
 Here are some basic spinners with Apple-like proportions, available in 24px-192px sizes, so you can have spinners at 24px, 48px, and 96px at retina and normal resolutions.
 
+I'll be making some sized 16-32-64-128 in the near future.
+
 Make those loading screens a bit more dapper, and always provide user feedback.
 
 ### GIF: Premade basics
