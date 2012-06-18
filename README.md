@@ -16,4 +16,6 @@ I didn't spend too much time optimizing for file size, so their footprint may be
 
 Everything should be broken out into layers. If you need to modify the background colors, there should be a background layer in each file. Change the color, and add it to each pane of the animation.
 
+Currently, the frame rate of all animations is 0.5s, which might be a little speedy for your taste. Above 0.7s, though, it starts to feel a little slow.
+
 MIT License.
