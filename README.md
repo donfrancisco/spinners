@@ -6,7 +6,13 @@ Here are some basic spinners with Apple-like proportions, available in 24px-192p
 
 Make those loading screens a bit more dapper, and always provide user feedback.
 
-### Customize with Photoshop
+### GIF: Premade basics
+
+I've already created .gifs for the loaders (black on white background, white on black background). If you don't need to customize them, then you're good to go.
+
+I didn't spend too much time optimizing for file size, so their footprint may be a bit chubby for your taste.
+
+### PSD: Customize with Photoshop
 
 Everything should be broken out into layers. If you need to modify the background colors, there should be a background layer in each file. Change the color, and add it to each pane of the animation.
 
