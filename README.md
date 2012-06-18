@@ -8,14 +8,13 @@ I'll be making some sized 16-32-64-128 in the near future.
 
 Make those loading screens a bit more dapper, and always provide user feedback.
 
-### GIF: Premade basics
+### GIF 
 
 I've already created .gifs for the loaders (black on white background, white on black background). If you don't need to customize them, then you're good to go.
 
 I didn't spend too much time optimizing for file size, so their footprint may be a bit chubby for your taste.
 
-### PSD: Customize with Photoshop
-
+### PSD
 Everything should be broken out into layers. If you need to modify the background colors, there should be a background layer in each file. Change the color, and add it to each pane of the animation.
 
 Currently, the frame rate of all animations is 0.5s, which might be a little speedy for your taste. Above 0.7s, though, it starts to feel a little slow.
